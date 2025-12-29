@@ -5,15 +5,7 @@ public class dummy_OrgTest {
 public static void main(String[] args) {
 	System.out.println("----created------");
 	System.out.println("---Yes----");
-	System.out.println("----no---");
-	System.out.println("----no---");
-	System.out.println("----no---");
-	System.out.println("----no---");
-	System.out.println("----no---");
-	System.out.println("----no---");
-	System.out.println("----no---");
-	System.out.println("----no---");
-	System.out.println("----no---");
+	System.out.println("Happy New Year 2026");
 	System.out.println("----why---");
 	System.out.println("----what---");
 	System.out.println("----how---");
