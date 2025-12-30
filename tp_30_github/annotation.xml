@@ -9,9 +9,9 @@
    </run>
   </groups>
     <classes>
-      <class name="testNG_Practice.sampleTest1"/>
-      <class name="testNG_Practice.demotest1"/>
-      <class name="testNG_Practice.sampleTest2"/>
+      <class name="sample1.demotest"/>
+      <class name="sample1.demotest2"/>
+      <class name="sample1.sampletest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
