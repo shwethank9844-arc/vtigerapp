@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class dummy_OrgTest {
 
 	@Test
-public  void main(String[] args) {
+public  void demo() {
 	System.out.println("----created------");
 	System.out.println("---Yes----");
 	System.out.println("Happy New Year 2026");
