@@ -9,6 +9,8 @@ public static void main(String[] args) {
 	System.out.println("----why---");
 	System.out.println("----what---");
 	System.out.println("----how---");
+	System.out.println("----how---");
+	System.out.println("----how---");
 
 
 
