@@ -12,6 +12,11 @@ public  void demo() {
 	System.out.println("----why---");
 	System.out.println("----what---");
 	System.out.println("----how---");
+
+	for(int i=0;i<10;i++)
+	{
+		System.out.println("202"+i);
+	}
 	System.out.println("----how---");
 	System.out.println("----how---");
 	System.out.println("----how---");
